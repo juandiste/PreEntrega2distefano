@@ -8,9 +8,9 @@
     background-size: 100% 100%;}
 li a{
     color: grey;
-}
+     }
 .navcolor{
-    background-color: rgb(57, 57, 57);
+    background-color: rgba(72, 84, 93, 0.805);
 }
 .navfont{
     font-family: 'Oswald', sans-serif;
@@ -24,4 +24,9 @@ li a{
 .carritoboton{
     font-family: 'Oswald', sans-serif;
 }
-
+.footerdiv{
+    margin-right: 0%
+}
+.carrit{
+    list-style: none;
+}
