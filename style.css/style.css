@@ -97,6 +97,18 @@ h3::before {
 	position: fixed; bottom: 0
 }
 
+.carri1{	
+	height: 150px;
+}
+.ofers:hover {
+	transform: scale(0.9);
+	transition: all 1.4s;
+}
+.botontran:hover{
+	transform: scale(1.2);
+	transition: all 1.2s;
+}
+
 
 
 
