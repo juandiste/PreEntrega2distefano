@@ -63,9 +63,9 @@ background-size: 100% 100%;
 }
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
 h1 {
-	color: #333132;
+	color:grey;
 	font-size: 28px;
-	position: relative;
+	position: sticky;
 	text-transform:uppercase;
 	-webkit-text-stroke: 0.4vw grey; }
     h1::before   {      
@@ -103,4 +103,3 @@ li{
     text-align:start;
     font-size: small ;
 }
-	

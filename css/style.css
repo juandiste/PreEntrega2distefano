@@ -71,9 +71,9 @@ li a {
 }
 
 h1 {
-  color: #333132;
+  color: grey;
   font-size: 28px;
-  position: relative;
+  position: sticky;
   text-transform: uppercase;
   -webkit-text-stroke: 0.4vw grey;
 }
@@ -106,6 +106,6 @@ h1::before {
 li {
   text-align: start;
   font-size: small;
-} 
+}
 
 /*# sourceMappingURL=style.css.map */
